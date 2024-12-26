@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on [WhatsApp](https://wa.me/+905555555555)
+- 👯 I’m looking to collaborate on [WhatsApp](https://wa.me/+905457840144)
 
 - 👨‍💻 All of my projects are available at [https://github.com/huseyinaltnbs](https://github.com/huseyinaltnbs)
 
