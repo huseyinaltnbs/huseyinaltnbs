@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **huseyin.altunbs@gmail.com**
 
-- ⚡ Fun fact I am a student at Sütçü İmam University, studying Computer Programmer. I am a Computer Programmer enthusiast who enjoys working with Php, Js, Microsoft SQL Server, C#.My passion for new technologies keeps me up-to-date and fuels my desire to provide innovative solutions to the software world.**
+- ⚡ Fun fact I am a student at Sütçü İmam University, studying Computer Programmer. I am a Computer Programmer enthusiast who enjoys working with Php, Js, Microsoft SQL Server, C#.My passion for new technologies keeps me up-to-date and fuels my desire to provide innovative solutions to the software world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
