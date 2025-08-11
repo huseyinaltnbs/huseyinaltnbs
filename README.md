@@ -1,4 +1,4 @@
-![MasterHea](https://media.licdn.com/dms/image/v2/D5616AQFLk3TxYPmTRg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735241944027?e=1740614400&v=beta&t=fhQIXKhfzihWZiQbMeN6AOMyXIs5-wwEfsdchrlpmDQ)
+![MasterHea](./images/MasterHea.png)
 
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
 <h3 align="center">A passionate Back-End Developer from Turkey</h3>
@@ -42,3 +42,4 @@ I keep my project screenshots, demos, and descriptions in this repository:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyinaltnbs&show_icons=true&locale=en&layout=compact" alt="huseyinaltnbs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinaltnbs&show_icons=true&locale=en" alt="huseyinaltnbs" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinaltnbs&" alt="huseyinaltnbs" /></p>
+
